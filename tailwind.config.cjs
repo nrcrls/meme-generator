@@ -13,7 +13,8 @@ module.exports = {
       colors: {
         transparent: 'transparent',
         current: 'currentColor',
-        duck: '#b7e2c6',
+        duck: '#b8d6ca',
+        rubberDuck: '#fce4a1'
       },
     },
   },
