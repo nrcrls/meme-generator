@@ -10,12 +10,6 @@ module.exports = {
         josefin: ['Josefin Sans', 'sans-serif'],
         space: ['Space Grotesk', 'sans-serif']
       },
-      colors: {
-        transparent: 'transparent',
-        current: 'currentColor',
-        duck: '#b8d6ca',
-        rubberDuck: '#fce4a1'
-      },
     },
   },
   plugins: [],
