@@ -14,7 +14,7 @@ module.exports = {
         transparent: 'transparent',
         current: 'currentColor',
         duck: '#b7e2c6',
-      }
+      },
     },
   },
   plugins: [],
