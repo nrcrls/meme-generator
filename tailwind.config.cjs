@@ -9,6 +9,11 @@ module.exports = {
       fontFamily: {
         josefin: ['Josefin Sans', 'sans-serif'],
         space: ['Space Grotesk', 'sans-serif']
+      },
+      colors: {
+        transparent: 'transparent',
+        current: 'currentColor',
+        duck: '#b7e2c6',
       }
     },
   },
