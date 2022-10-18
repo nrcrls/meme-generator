@@ -2,7 +2,7 @@ import logo from '../assets/logo-1.png'
 
 function Header() {
   return (
-    <nav className='flex justify-between p-5 bg-red-300'>
+    <nav className='flex justify-between p-5 bg-red-400'>
       <div className="flex md:ml-4">
         <img src={logo} alt="logo-icon" className='w-8 mr-2' />
         <div>
